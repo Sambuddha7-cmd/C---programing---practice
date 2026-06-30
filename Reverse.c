@@ -1,3 +1,9 @@
+ /*
+Program: Reversing a number 
+Author: Sambuddha
+Description:
+User enters a number and the program reverses it .
+*/
 #include <stdio.h>
 int main (void)
 {
