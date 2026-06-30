@@ -1,3 +1,9 @@
+ /*
+Program: Palindrome.c
+Author: Sambuddha
+Description:
+Checks whether a number is palindrome . 
+*/
 #include <stdio.h>
 int main(void)
 {
