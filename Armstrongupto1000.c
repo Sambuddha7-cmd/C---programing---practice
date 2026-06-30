@@ -1,3 +1,9 @@
+ /*
+Program: Armstrong numbers upto 1000.
+Author: Sambuddha
+Description:
+Prints all armstrong numbers from 1 to 1000.
+*/
 #include<stdio.h>
 int main(void)
 {
