@@ -1,4 +1,9 @@
-c
+ /*
+Program: Armstrong number 
+Author: Sambuddha
+Description:
+Checks whether a number is armstrong number.
+*/
 #include<stdio.h>
 int main(void)
 { 
